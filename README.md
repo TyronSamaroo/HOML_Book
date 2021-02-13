@@ -14,4 +14,9 @@ Launch code from notebook if file is not loading. This also allows you to play w
 
 
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
+<a  rel="noopener" href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
+
+[go](http://stackoverflow.com){:target="_blank"}
+
+
+<a href="http://example.com/" target="_blank">example</a>
