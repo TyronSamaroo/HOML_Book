@@ -11,3 +11,7 @@ Below can open code for each Chapter
 Launch code from notebook if file is not loading. This also allows you to play with the code.
 
 <a target="_blank" href="https://mybinder.org/v2/gh/TyronSamaroo/HOML_Book/main?filepath=Chapter2HOML.ipynb" >Chapter 2 Code </a>
+?urlpath=/lab
+
+
+https://mybinder.org/v2/gh/TyronSamaroo/HOML_Book/main?filepath=Chapter2HOML.ipynb?urlpath=/lab
