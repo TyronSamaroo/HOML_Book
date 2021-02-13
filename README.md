@@ -11,3 +11,7 @@ Below can open code for each Chapter
 Launch code from notebook if file is not loading. This also allows you to play with the code.
 
 <a target="_blank" rel="noopener noreferrer" href="https://mybinder.org/v2/gh/TyronSamaroo/HOML_Book/tree/main/HEAD?filepath=Chapter2HOML.ipynb" >Chapter 2 Code </a>
+
+
+
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
